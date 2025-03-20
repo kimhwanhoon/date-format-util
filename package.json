@@ -1,0 +1,40 @@
+{
+  "name": "@kimhwanhoon/date-format-util",
+  "version": "1.0.0",
+  "description": "A collection of utility functions for date formatting with various output formats",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "utility",
+    "typescript",
+    "formatting",
+    "date-fns"
+  ],
+  "author": "Hwanhoon Kim",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^18.15.11",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhwanhoon/date-format-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kimhwanhoon/date-format-util/issues"
+  },
+  "homepage": "https://github.com/kimhwanhoon/date-format-util#readme"
+}
