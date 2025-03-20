@@ -3,7 +3,7 @@
 A collection of utility functions for date formatting.
 
 ## Installation
-```npm install your-package-name```
+```npm install @kimhwanhoon/date-format-util```
 
 ## Usage
 ```typescript
