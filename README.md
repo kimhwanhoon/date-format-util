@@ -7,7 +7,7 @@ A collection of utility functions for date formatting.
 
 ## Usage
 ```typescript
-import { formatDate, convertDate, getSmartDate } from 'your-package-name';
+import { formatDate, convertDate, getSmartDate } from '@kimhwanhoon/date-format-util';
 
 // Format a date to various outputs
 const isoDate = formatDate('2023-01-03', 'ISO');
