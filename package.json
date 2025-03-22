@@ -1,6 +1,6 @@
 {
   "name": "@kimhwanhoon/date-format-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of utility functions for date formatting with various output formats",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
